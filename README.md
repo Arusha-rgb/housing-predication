@@ -1,2 +1,1 @@
-# housing-predication
-This project is to predict house prices
+House Price Prediction involves estimating a property’s value based on key factors like location, size, and condition. This project uses feature engineering and statistical models to help developers set accurate prices and assist customers in deciding the best time to buy.
